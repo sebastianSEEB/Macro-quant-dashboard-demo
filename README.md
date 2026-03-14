@@ -13,7 +13,7 @@ A full-stack quantitative finance dashboard built with Python and Streamlit. Thi
 
 1. Clone the repository
    ```bash
-   git clone [https://github.com/YOUR_USERNAME/Macro-Quant-Dashboard.git](https://github.com/YOUR_USERNAME/Macro-Quant-Dashboard.git)
+   git clone [https://github.com/sebastianSEEB/Macro-Quant-Dashboard.git](https://github.com/YOUR_USERNAME/Macro-Quant-Dashboard.git)
    cd Macro-Quant-Dashboard
 2. Create a Virtual Environment (Optional but recommended)
    python -m venv venv
